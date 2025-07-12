@@ -12,3 +12,7 @@ Mediums (digital screens & print)
 
 Tools Used
 Figma
+
+
+Figma File link : https://www.figma.com/proto/l5A8DcghPn0mqa1qMzLKrE/Azan-APP?node-id=545-20&p=f&t=EkjIJ3FntJN09iRr-1&scaling=min-zoom&content-scaling=fixed&page-id=527%3A2
+
